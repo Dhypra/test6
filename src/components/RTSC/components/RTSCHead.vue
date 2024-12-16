@@ -7,7 +7,7 @@
     >
       <div
         style="
-          text-align: left;
+          text-align: right;
           font-weight: bold;
           align-items: center;
           font-size: 2.5rem;
