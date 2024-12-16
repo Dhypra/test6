@@ -5,7 +5,7 @@
       <div class="content content1">Content 1</div>
       <div class="content content2">Content 2</div>
       <div class="content content3">Content 3</div>
-      <div class="content content4">Content 4</div>
+      <div class="content content4">Conten 4</div>
     </div>
   </div>
 </template>
